@@ -1,0 +1,22 @@
+{
+    "name": "Armageddon.Sandbox",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:7d0e5cd2fe6f07c4b818f14497186888",
+        "GUID:c1f07c3f7e7b8a3409594a21cbe01c90",
+        "GUID:0da6d172d18a54e4389d0dce1e1ffdf2",
+        "GUID:60bfecf5cb232594891bc622f40d6bed",
+        "GUID:400f2260dd8d285419d1db99999109aa",
+        "GUID:08d1c582746949b40ba6a45cdb776bdf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

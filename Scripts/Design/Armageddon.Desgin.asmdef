@@ -1,0 +1,20 @@
+{
+    "name": "Armageddon.Desgin",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c1f07c3f7e7b8a3409594a21cbe01c90",
+        "GUID:7d0e5cd2fe6f07c4b818f14497186888",
+        "GUID:601ce4d8f12a3ab48bb8585af8060544",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:1f53d34d3edad9b42af906c5aba3715c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
